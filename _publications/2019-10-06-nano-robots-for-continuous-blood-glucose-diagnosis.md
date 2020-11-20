@@ -1,0 +1,8 @@
+---
+layout: publications
+title: "Nano Robots for Continuous Blood Glucose Diagnosis"
+date: 2019-10-06
+---
+
+Diabetes has established itself among the deadliest diseases of the century. Many Leading Fatal diseases are majorly caused or supported by this metabolic disorder. Diabetes has become very common over the years, showing a rapid increase in the number of cases. The increasing trends clearly show that there is a demand to come up with some new efficient methods to support its treatment procedures. Tedious and painful methods for its monitoring on a daily basis has to be carried out by people suffering from it which involves pricking their fingers many times a day, increasing the possibilities of infections and side effects. Nanorobotics can give a potential alternative for its diagnosis which ensures better levels of safety standards as compared to current available methods. In this review, we will present a concept for continuous measuring of blood glucose levels with nano-bots which will stay in the bloodstream and report results to an external system which can be further analysed. The bots will have a structure of a multiwall carbon nanotube. Researchers have been actively working on the development of this field and hence this novel idea will be actively used within the public when it passes its first human trial. The run to construct such nano structures is on and with advancements with each passing day they are expected to hit the markets for public use after the estimated time of 5 years.
+[Find the publication here](https://www.ijtsrd.com/engineering/nano-technology-/29262/nano-robots-for-continuous-blood-glucose-diagnosis/puru-malhotra)
