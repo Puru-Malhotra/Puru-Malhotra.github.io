@@ -1,43 +1,107 @@
-body {
-    margin: 60px auto;
-    width: 70%;
+body,html
+{height: 100%;	
 }
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+.navbar
+{background-color:rgba(21,31,33,0.1);
+border-bottom: 1px solid blue;
 }
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
+.navbar .navbar-nav .nav-link
+{color:black;
 }
-a {
-    text-decoration: none;
-    color: #999;
+.navbar .navbar-nav .nav-link:hover
+{color:#fff;
 }
-a:hover {
-    text-decoration: underline;
+.navbar-toggler-icon
+{color:orange;
 }
-h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+#header
+{background: url("C:/Users/lenovo/OneDrive/Desktop/Palak/Pictures/WhatsApp Image 2021-09-21 at 4.42.44 PM.jpeg") center center no-repeat;
+background-size:cover;
+height:100%;
+color:blue;
+display:flex;
+align-items:center;
 }
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
+#header h1
+{color:orange;
 }
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+.container
+{padding:50px;
 }
-
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
+#desc
+{background-color:rgba(0,0,0,0.1);
+padding:55px;
+border-radius:30px;
+color:pink;
 }
-
-ul.posts li {
-    list-style: none;
+h2
+{color:brown;
+}
+#footer
+{background-color:rgba(21,31,33,0.1);
+border-top: 1px solid blue;
+}
+.list-inline-item
+{
+padiing:0px 10px;
+height:30px;
+width:30px;
+}
+#publications .col-md-4
+{padding:0 10px 10px;
+}
+#certification .row
+{padding:0 0 10px;
+}
+#certification .img_fluid
+{height:400px;
+width:500px;
+}
+#project .col-md-6
+{border-radius:20px;
+margin:20px 0;
+}
+#certification
+{background-color:orange;
+}
+.img-1
+{height:30px;
+width:30px;
+}
+#ab
+{border: 2px solid blue;
+}
+#bc
+{border: 2px solid orange;
+}
+#bc .img-fluid-2
+{height:200px;
+width:500px;
+border-bottom: 2px solid orange;
+}
+#ab .img-fluid-2
+{margin:70px 0 100px 0;
+border-spacing:50px;
+}
+#about .img-fluid
+{height:600px;
+}
+#border-dena
+{border-right:3px solid blue;
+}
+#border-dena-left
+{border-left:3px solid blue;
+}
+#project
+{background-color:pink;
+}
+#about
+{background: #1a1e23;
+  margin: 0;
+}
+.blockquote p
+{color:white;
+}
+#experience
+{background-color:#F2F4F4;
 }
