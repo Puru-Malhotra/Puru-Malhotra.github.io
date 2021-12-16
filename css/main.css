@@ -3,8 +3,9 @@ body,html
   background: #1a1e23;
 }
 .navbar
-{background-color:rgba(21,31,33,0.0004);
+{background-color:rgba(21,31,33,0.1);
 border-bottom: 1px solid blue;
+opacity: 0.5;
 }
 .navbar .navbar-nav .nav-link
 {color:#6C3483;
